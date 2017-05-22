@@ -32,7 +32,7 @@ var email = "yang0237@algonquinlive.com";
 //Declare the variable output;
 var output;
 //Create the expression concatenating variables first_name, last_name, email and string literals needed to complete the sentence reading: "My name is Your-first-name Your-last-name. You can contact me at your-email@mail.com.";
-output = " My name is " + first_name + " " + last_name + "." " + " " + " You can contact me at " + email; 
+output = " My name is " + first_name + " " + last_name + "." " + " " + " You can contact me at " + email + "."; 
 
 //Assign output with gotten expression;
 //Print output using alert().
